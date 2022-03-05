@@ -1,16 +1,11 @@
-### Hi there 👋
+# 👋 Hi, nice to meet you!
+<h3>Here is a little bit about me</h3>  
 
-<!--
-**Kan014/Kan014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Xan Developers
+- 🌱 I’m currently learning Software Development
+- 💬 I’m interested in the following programming languages JavaScript (JS), TypeScript (TS), Python (PY)
+- 📖 I will read about the following topics graphic design, data management, engineering
+- 🤝 I collaborate in Xan Developers and soon in more projects
+- 📫 How to reach me my socials or my [discord](https://discord.gg/9KBZXccxXq)
+- 😄 Pronouns: KItsJustKan, IsMeKan
+- ⚡ Fun fact: I'm 18 years old
