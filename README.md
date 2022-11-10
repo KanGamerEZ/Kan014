@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kan014
+# 👋 Hi, I’m KanGamerEZ
 <h3>Here is a little bit about me</h3>  
 
 - 🔭 I’m currently working on Xan Developers
@@ -12,4 +12,4 @@
 
 # 🔎 My Stats
 
-![Kan014's GitHub stats](https://github-readme-stats.vercel.app/api?username=kan014&show_icons=true&theme=midnight-purple)
+![Kan014's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangamerez&show_icons=true&theme=midnight-purple)
